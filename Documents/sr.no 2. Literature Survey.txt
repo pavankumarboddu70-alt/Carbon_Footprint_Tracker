@@ -1,0 +1,33 @@
+1. Understanding Carbon Footprint and Its Impact
+
+- Wiedmann & Minx (2008) define a carbon footprint as the total set of greenhouse gas (GHG) emissions caused directly and indirectly by an    individual, organization, event, or product.
+- According to the IPCC (Intergovernmental Panel on Climate Change), human activities contribute significantly to global warming, primarily through transportation, energy consumption, and waste management.
+- Studies indicate that raising awareness about personal carbon footprints can lead to behavioral changes and sustainable choices.
+
+2. Existing Carbon Footprint Tracking Methods
+
+A) Traditional Approaches:
+- Manual calculation using emission factor tables provided by environmental agencies.
+- Government initiatives for corporate carbon reporting but limited tools for individuals.
+
+B) Online Carbon Calculators:
+- Many online tools (e.g., EPA Carbon Footprint Calculator, CoolClimate Network) provide rough estimates based on user inputs.
+- These calculators often lack real-time tracking, personalized insights, and machine learning-based predictions.
+
+C) Mobile and Web-based Applications:
+- Apps like JouleBug, Capture, and Carbon Footprint Ltd. track emissions but are often region-specific and limited in scope.
+- Most solutions focus on transportation and energy usage, neglecting dietary choices and consumer habits.
+
+3. Research Gaps and Need for Improvement
+- Lack of Personalized Analysis: Most tools provide generic estimates without considering individual lifestyle variations.
+- Limited Data Visualization: Existing systems often lack interactive reports and trend analysis to help users understand their footprint.
+- Absence of Real-Time Tracking: Many solutions do not allow users to track their emissions over time or compare historical data.
+- Minimal Actionable Insights: While some calculators estimate emissions, they do not provide personalized recommendations for reducing footprints.
+
+4. Proposed Solution and Innovation in Our Project
+To address these gaps, our Carbon Footprint Tracker integrates:
+✅ Real-time tracking using a user-friendly Streamlit-based web interface.
+✅ Category-wise breakdown (transport, energy, diet, waste, shopping) for detailed analysis.
+✅ Data visualization using graphs and interactive dashboards.
+✅ Personalized recommendations for reducing emissions based on user activities.
+✅ Machine learning-based insights (if extended in future phases) to predict and compare footprints over time.

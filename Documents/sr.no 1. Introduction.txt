@@ -1,0 +1,23 @@
+1) Introduction :-
+
+The Carbon Footprint Tracker is a web-based tool designed to help individuals measure and analyze their personal carbon emissions. 
+Many people are unaware of how their daily activities—such as transportation, energy consumption, food habits, and waste management—contribute to environmental pollution. 
+This project provides a simple and interactive platform for users to estimate their carbon footprint and receive actionable insights to reduce their impact on the environment.
+
+2) Problem Statement :-
+
+Climate change is a growing global concern, with carbon emissions being a major driver of environmental degradation. 
+While industries are regulated for their emissions, individual contributions remain largely untracked, leading to unintentional but significant environmental harm. 
+Most people lack accessible tools to measure their daily carbon emissions, making it difficult to take informed steps toward sustainability. 
+A user-friendly tracking system is needed to create awareness and encourage eco-friendly habits.
+
+3) Solution :-
+
+The Carbon Footprint Tracker is built using Streamlit or Flask/Django to offer an interactive and real-time estimation of an individual's carbon emissions. 
+Users enter details about their daily activities, and the system calculates their footprint based on scientific emission factors. The platform provides:
+✅ Real-time carbon footprint estimation
+✅ Category-wise breakdown (transport, energy, food, waste, shopping)
+✅ Personalized recommendations to reduce emissions
+✅ A simple, lightweight web interface for easy access
+
+This tool empowers individuals to track, analyze, and reduce their carbon footprint, making sustainability more achievable for everyone.

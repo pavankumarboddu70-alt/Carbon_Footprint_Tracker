@@ -1,0 +1,59 @@
+# 1. Data Collection 
+- Gathered carbon emission datasets from publicly available sources, including:  
+  - Government environmental agencies.  
+  - Research papers on carbon footprint analysis.  
+  - Online carbon footprint calculators and emission factor databases.  
+- Collected user input data (e.g., transportation mode, electricity consumption, diet, and shopping habits) for personalized analysis.  
+
+---  
+
+# 2. Exploratory Data Analysis (EDA)  
+
+# A. Data Cleaning & Preprocessing 
+- Removed **missing values** and handled **data inconsistencies**.  
+- Standardized units (e.g., converting fuel consumption into **kg CO₂ emissions**).  
+- Categorized emissions into **five key sectors**:  
+  ✅ Transport
+  ✅ Energy Consumption  
+  ✅ Diet & Food Choices  
+  ✅ Waste Management 
+  ✅ Shopping & Consumer Habits  
+
+# B. Statistical Analysis & Data Insights
+- Identified high-impact activities contributing to the largest emissions.  
+- Analyzed distribution of emissions across different user behaviors.  
+- Compared emission levels based on different lifestyle choices.  
+
+# C. Data Visualization
+- Used Matplotlib & Seaborn to generate:  
+  ✅ Histograms & bar charts to visualize emission distributions.  
+  ✅ Heatmaps to show correlations between activities and emissions.  
+  ✅ Pie charts for category-wise carbon footprint breakdown.  
+
+---  
+
+# 3. Dashboard Creation in Power BI  
+- Developed an interactive dashboard in Power BI for better data visualization.  
+- Integrated key metrics and KPIs to track carbon footprint trends.  
+- Created dynamic charts and graphs, including:  
+  ✅ Line charts for emission trends over time.  
+  ✅ Bar graphs comparing emissions across different categories.  
+  ✅ Geo-maps to analyze regional variations in carbon footprints.  
+  ✅ Filter and drill-down options** for deeper insights.  
+
+---  
+
+# 4. Key Insights from EDA & Dashboard 
+📌 Travel & home energy use are the highest contributors to carbon emissions.  
+📌 Meat-based diets result in significantly higher carbon footprints than plant-based diets.  
+📌 Proper waste management can reduce overall emissions.  
+📌 Users adopting public transport & energy-efficient appliances tend to have lower emissions.  
+
+---  
+
+# 5. Outcome of Phase 1  
+✅ Cleaned and structured dataset for further processing.  
+✅ Extracted meaningful patterns from user activities and carbon emissions.  
+✅ Developed interactive visualizations to enhance data-driven decision-making.  
+✅ Created an interactive Power BI dashboard for real-time carbon footprint analysis.  
+✅ Prepared dataset for integration with the web-based tracker. 

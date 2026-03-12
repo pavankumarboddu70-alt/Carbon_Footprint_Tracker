@@ -1,0 +1,64 @@
+🛠️ Implementation Steps: 
+
+📌 Step 1: Data Preprocessing & Feature Engineering
+Before training our models, we ensured the dataset was clean, structured, and ready for machine learning:
+
+✅ Handled Missing Values:
+- Categorical Data → Replaced with the most frequent category (Mode).
+- Numerical Data → Filled using the Mean for a balanced distribution.
+
+✅ Feature Encoding:
+- Applied One-Hot Encoding to transform categorical variables into numerical format.
+
+✅ Feature Scaling:
+- Standardized numerical data using StandardScaler() to optimize model convergence.
+
+✅ Data Splitting:
+- Split into 80% training data & 20% testing data to evaluate model generalization.
+
+
+
+📌 Step 2: Model Training & Evaluation
+We trained multiple machine learning models to compare their effectiveness in predicting carbon emissions. Each model was fine-tuned for optimal performance.
+
+📌 Linear Regression (LR)
+- A simple but effective baseline model.
+- Helps understand the fundamental relationships in the dataset.
+
+📌 MLP Regressor (Neural Network - NN)
+- A deep learning approach using a multi-layer perceptron with (64,128,64) hidden layers.
+- Activation Function: Tanh (for smooth transitions).
+- Max Iterations: 436 to ensure proper convergence.
+
+📌 Gradient Boosting Regressor (GBR)
+- An ensemble learning method that combines multiple decision trees.
+- Boosts performance by reducing both bias and variance.
+- Final Choice due to superior accuracy and generalization.
+
+
+📌 Step 3: Model Performance Analysis & Selection
+Each model was evaluated using:
+🔹 Root Mean Square Error (RMSE): Measures prediction error—lower is better.
+🔹 R² Score: Measures model accuracy—closer to 1 is better.
+
+🏆 Best Model: Gradient Boosting Regressor (GBR)
+Outperformed Linear Regression & Neural Networks.
+Achieved the lowest RMSE and highest R² Score.
+
+
+
+| **Model**                               | **RMSE (↓ Lower is better)** | **R² Score (↑ Closer to 1 is better)** |
+|-----------------------------------------|:----------------------------:|:--------------------------------------:|
+| **Linear Regression (LR)**              |        261.61                |              0.9341                    |
+| **MLP Regressor (Neural Network - NN)** |        261.61 (Best)         |              0.9551  (Best)            |
+| **Gradient Boosting Regressor (GBR)**   |        216.16                |              0.9550                    |
+
+
+
+
+
+
+
+
+
+
