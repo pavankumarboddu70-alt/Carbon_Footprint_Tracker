@@ -11,3 +11,7 @@ Our project, **"Carbon Footprint Detection,"** aims to bridge this gap by provid
 | **Name**                | **PRN**                |  
 |-------------------------|------------------------|  
 | Pavan Kumar Boddu    | B.TECH-ECE(VLSI) 2311067010012 |
+| Ch. Ganesh           | B.TECH-CSE       2311051010019 |
+| Devi Sri Prasad      | B. TECH-ECE(DS)  2311053010029 |
+| Syed Asif            | B.TECH-CSE       2311051010044 |
+| Yasaswi               | B.TECH(DS)       2311053010041 |
