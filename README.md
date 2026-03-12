@@ -6,7 +6,7 @@ Our project, **"Carbon Footprint Detection,"** aims to bridge this gap by provid
 
 ---  
 
-# **Team Members**  
+# **Team Member**  
 
 | **Name**                | **PRN**                |  
 |-------------------------|------------------------|  
