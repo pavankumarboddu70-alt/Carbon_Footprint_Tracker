@@ -10,7 +10,4 @@ Our project, **"Carbon Footprint Detection,"** aims to bridge this gap by provid
 
 | **Name**                | **PRN**                |  
 |-------------------------|------------------------|  
-| Pawan Ramdas Patil      | B.TECH-AIML 221107036  |  
-| Shubhangi Ashok Thakare | B.TECH-AIML 221107034  |  
-| Kalesh Uttam Patil      | B.TECH-AIML 221107031  |  
-| Drup Shivaji Patil      | B.TECH-AIML 221107039  |  
+| Pavan Kumar Boddu    | B.TECH-ECE(VLSI) 2311067010012 |
